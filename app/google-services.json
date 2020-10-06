@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988511382392",
+    "firebase_url": "https://appingchat.firebaseio.com",
+    "project_id": "appingchat",
+    "storage_bucket": "appingchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988511382392:android:b1091f587ecb42059ab68d",
+        "android_client_info": {
+          "package_name": "com.rachanaxc.appingchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988511382392-rt366tqk3n6q9s9fgdk7e2r1phml5a8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rachanaxc.appingchat",
+            "certificate_hash": "1945c1a16841012839988a3c8e6e6ab036ae5e84"
+          }
+        },
+        {
+          "client_id": "988511382392-vvcfvqr8tl5f5gnd39sm2bgt79iq8fh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrE-sEvGJ0IXrZ0Mr_-vBCCwJvC7cyMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988511382392-vvcfvqr8tl5f5gnd39sm2bgt79iq8fh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
